@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "A markdown blog hosted in github"
             }
+          },
+          {
+            "id": "b6175bac907b8b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02/React UseEffect Hook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React UseEffect Hook"
+            }
+          },
+          {
+            "id": "c662fb631c58ec35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02/React Render and Commit life cycles - UI paint and change detection..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Render and Commit life cycles - UI paint and change detection."
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,11 +226,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7c61b9302de4169",
+  "active": "c662fb631c58ec35",
   "lastOpenFiles": [
-    "Pasted image 20260121104247.png",
+    "2026-02/React UseEffect Hook.md",
+    "2026-02/React Render and Commit life cycles - UI paint and change detection..md",
+    "2026-02/React Reconciliation - shouldComponentUpdate and virtualDOMEqual.md",
+    "React rendering cycle.md",
     "2026-01/A markdown blog hosted in github.md",
+    "2026-02",
     "README.md",
+    "Pasted image 20260121104247.png",
     "2026-01"
   ]
 }
