@@ -1,6 +1,13 @@
-React Hooks are plain javascript functions that hook 
-according to the official `react.dev` documentation: 
-> The `useEffect` hook, lets you synchronize a component with an external system
+React Hooks are plain javascript functions that tap into React state and lifecycle features from function components.
+
+There is a number of built-in hooks provided by React to handle common tasks, the most common are:
+ - `useState`is the most common hook, used to add local state to a component. 
+ - `useEffect` handles side effects like http requests, subscriptions and manual DOM changes. It literally synchronizes the component with an external system (such as a server).
+ - `useContext` is used to subscribe to the React Context, so that data can be passed around the component tree without nesting (otherwise, to pass data from parents to children, it would be transmitted through props down the tree).
+ - `useRef` creates a persistent reference to a DOM element that doesn't trigger a rerender when it is changed.
+ - `useMemo` is used for caching expensive calculations (AKA `memoizing`).
+
+## UseEffect
 
 Among the default use cases suggested by the docs, there are:
  - control a non-react component based on the React state

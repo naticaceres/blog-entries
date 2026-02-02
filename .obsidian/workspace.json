@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02/React Render and Commit life cycles - UI paint and change detection..md",
+                "file": "2026-02/React Hooks - UseEffect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Render and Commit life cycles - UI paint and change detection."
+              "title": "React Hooks - UseEffect"
             }
           }
         ],
@@ -228,13 +228,13 @@
   },
   "active": "c662fb631c58ec35",
   "lastOpenFiles": [
-    "2026-02/React UseEffect Hook.md",
     "2026-02/React Render and Commit life cycles - UI paint and change detection..md",
+    "README.md",
+    "2026-02/React Hooks - UseEffect.md",
     "2026-02/React Reconciliation - shouldComponentUpdate and virtualDOMEqual.md",
     "React rendering cycle.md",
     "2026-01/A markdown blog hosted in github.md",
     "2026-02",
-    "README.md",
     "Pasted image 20260121104247.png",
     "2026-01"
   ]
